@@ -34,7 +34,7 @@ public class HDFSAPITest {
         //  此时的conf并没有与我们的HDFS关联上
         Configuration conf = new Configuration();
 
-        URI uri = new URI("hdfs://ruozedata001:8020");
+        URI uri = new URI("hdfs://xuanfeng001:8020");
 
         //  获取HDFS客户端的对象
         FileSystem fileSystem = FileSystem.get(uri, conf, "hadoop");
