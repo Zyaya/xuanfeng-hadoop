@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeaba05e-e7de-48cf-8e3f-28cd101a734c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/homework/homework0704/MergeFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/utils/MockData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/xuanfeng/bigdata/hadoop/HDFSAPITest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/xuanfeng/bigdata/hadoop/HDFSAPITest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xuanfeng-hadoop.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,46 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="XuanFengMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/pattern/template/XuanFengMapper.java">
+      <file leaf-file-name="MockData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/utils/MockData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RuozedataMapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/pattern/template/RuozedataMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mapper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/pattern/template/Mapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeFile.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/homework/homework0704/MergeFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+            <state relative-caret-position="1795">
+              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,60 +31,92 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InputFormat.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0-cdh5.16.2/hadoop-mapreduce-client-core-2.6.0-cdh5.16.2-sources.jar!/org/apache/hadoop/mapreduce/InputFormat.java">
+      <file leaf-file-name="traffic.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/traffic.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            <state relative-caret-position="326">
+              <caret line="31" column="84" lean-forward="true" selection-start-line="31" selection-end-line="31" selection-end-column="84" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileInputFormat.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0-cdh5.16.2/hadoop-mapreduce-client-core-2.6.0-cdh5.16.2-sources.jar!/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java">
+      <file leaf-file-name="QuestionTop10.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/QuestionTop10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-220">
-              <caret line="379" column="31" selection-start-line="379" selection-start-column="26" selection-end-line="379" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TextInputFormat.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0-cdh5.16.2/hadoop-mapreduce-client-core-2.6.0-cdh5.16.2-sources.jar!/org/apache/hadoop/mapreduce/lib/input/TextInputFormat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="45" column="22" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LineRecordReader.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0-cdh5.16.2/hadoop-mapreduce-client-core-2.6.0-cdh5.16.2-sources.jar!/org/apache/hadoop/mapreduce/lib/input/LineRecordReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-210">
-              <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+            <state relative-caret-position="18">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
-                <element signature="e#2706#2707#0" expanded="true" />
-                <element signature="e#2759#2760#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RecordReader.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0-cdh5.16.2/hadoop-mapreduce-client-core-2.6.0-cdh5.16.2-sources.jar!/org/apache/hadoop/mapreduce/RecordReader.java">
+      <file leaf-file-name="CourseIdParseUDF.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/CourseIdParseUDF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="34" column="67" selection-start-line="34" selection-start-column="67" selection-end-line="34" selection-end-column="67" />
+            <state relative-caret-position="252">
+              <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Closeable.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/io/Closeable.java">
+      <file leaf-file-name="course.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/course.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+            <state relative-caret-position="133">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="2222" column="27" selection-start-line="2222" selection-start-column="27" selection-end-line="2222" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="course.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/inputformat/course.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/junit/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculatorTest02.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/junit/CalculatorTest02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculatorTest03.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/junit/CalculatorTest03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,7 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/junit/Calculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/junit/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/junit/CalculatorTest03.java" />
@@ -167,10 +167,28 @@
         <option value="$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/homework/Homework0704.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/homework/Rename.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/homework/homework0704/Rename.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/hadoop/HDFSAPITest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/hadoop/HDFSAPITest03.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/hadoop/HDFSAPITest02.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/homework/homework0704/MergeFile.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/hadoop/HDFSAPITest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/homework/homework0719/TrafficApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/TrafficApp.java" />
+        <option value="$PROJECT_DIR$/data/inputformat/traffic.csv" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/hive/MockData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/hive/MockData_2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/hive/JDBCApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/hive/QuestionTop10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/homework0719/QuestionTop10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/homework0719/CoureseIdParseUDF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/homework0719/CourseIdParseUDF.java" />
+        <option value="$PROJECT_DIR$/data/inputformat/course.csv" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/utils/MockData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/junit/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/CourseIdParseUDF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/traffic.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/QuestionTop10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/course.sql" />
       </list>
     </option>
   </component>
@@ -202,19 +220,12 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="xuanfeng-hadoop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="xuanfeng-hadoop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.apache.hadoop:hadoop-client:2.6.0-cdh5.16.2" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="xuanfeng-hadoop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="junit:junit:4.12" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
       </expand>
       <select />
@@ -227,12 +238,16 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,110 +255,11 @@
               <item name="xuanfeng-hadoop" type="b2602c69:ProjectViewProjectNode" />
               <item name="xuanfeng-hadoop" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="xuanfeng-hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuanfeng-hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuanfeng-hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuanfeng-hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuanfeng-hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuanfeng-hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuanfeng-hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuanfeng-hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuanfeng-hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuanfeng-hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuanfeng-hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuanfeng-hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuanfeng-hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuanfeng-hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuanfeng-hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuanfeng-hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuanfeng-hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuanfeng-hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuanfeng-hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuanfeng-hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuanfeng-hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuanfeng-hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="hadoop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuanfeng-hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuanfeng-hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="homework0704" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xuanfeng-hadoop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xuanfeng-hadoop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
-              <item name="junit" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -355,6 +271,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.xuanfeng.bigdata.homework.homework0719" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xuanfeng.bigdata.hadoop" />
       <recent name="com.xuanfeng.bigdata.pattern.template" />
@@ -373,14 +292,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.testDivide2">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuanfeng.bigdata.pattern.template.Client" />
+  <component name="RunManager" selected="Application.CourseIdParseUDF">
+    <configuration name="CourseIdParseUDF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuanfeng.bigdata.homework.CourseIdParseUDF" />
       <module name="xuanfeng-hadoop" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuanfeng.bigdata.pattern.template.*" />
+          <option name="PATTERN" value="com.xuanfeng.bigdata.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MockData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuanfeng.bigdata.utils.MockData" />
+      <module name="xuanfeng-hadoop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuanfeng.bigdata.utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -388,7 +318,30 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="CalculatorTest03.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorTest02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xuanfeng-hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuanfeng.bigdata.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.xuanfeng.bigdata.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.xuanfeng.bigdata.junit.CalculatorTest02" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CalculatorTest03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="xuanfeng-hadoop" />
       <extension name="coverage">
         <pattern>
@@ -400,77 +353,8 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.xuanfeng.bigdata.junit" />
       <option name="MAIN_CLASS_NAME" value="com.xuanfeng.bigdata.junit.CalculatorTest03" />
-      <option name="METHOD_NAME" value="testAdd" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="CalculatorTest03.testDivide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xuanfeng-hadoop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuanfeng.bigdata.junit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.xuanfeng.bigdata.junit" />
-      <option name="MAIN_CLASS_NAME" value="com.xuanfeng.bigdata.junit.CalculatorTest03" />
-      <option name="METHOD_NAME" value="testDivide" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="CalculatorTest03.testDivide2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xuanfeng-hadoop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuanfeng.bigdata.junit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.xuanfeng.bigdata.junit" />
-      <option name="MAIN_CLASS_NAME" value="com.xuanfeng.bigdata.junit.CalculatorTest03" />
-      <option name="METHOD_NAME" value="testDivide2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="CalculatorTest.testDivide2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="xuanfeng-hadoop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuanfeng.bigdata.junit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.xuanfeng.bigdata.junit" />
-      <option name="MAIN_CLASS_NAME" value="com.xuanfeng.bigdata.junit.CalculatorTest" />
-      <option name="METHOD_NAME" value="testDivide2" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -487,6 +371,29 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xuanfeng-hadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuanfeng.bigdata.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.xuanfeng.bigdata.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.xuanfeng.bigdata.junit.test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -519,19 +426,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.CalculatorTest03.testDivide" />
-      <item itemvalue="JUnit.CalculatorTest03.testDivide2" />
-      <item itemvalue="JUnit.CalculatorTest03.testAdd" />
-      <item itemvalue="Application.Client" />
-      <item itemvalue="JUnit.CalculatorTest.testDivide2" />
+      <item itemvalue="Application.MockData" />
+      <item itemvalue="JUnit.CalculatorTest03" />
+      <item itemvalue="JUnit.CalculatorTest02" />
+      <item itemvalue="JUnit.test.test" />
+      <item itemvalue="Application.CourseIdParseUDF" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CalculatorTest.testDivide2" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="JUnit.CalculatorTest03.testAdd" />
-        <item itemvalue="JUnit.CalculatorTest03.testDivide" />
-        <item itemvalue="JUnit.CalculatorTest03.testDivide2" />
+        <item itemvalue="Application.CourseIdParseUDF" />
+        <item itemvalue="Application.MockData" />
+        <item itemvalue="JUnit.test.test" />
+        <item itemvalue="JUnit.CalculatorTest02" />
+        <item itemvalue="JUnit.CalculatorTest03" />
       </list>
     </recent_temporary>
   </component>
@@ -546,20 +453,12 @@
       <option name="presentableId" value="Default" />
       <updated>1594405912787</updated>
       <workItem from="1594405921999" duration="620000" />
-      <workItem from="1594406581762" duration="46764000" />
+      <workItem from="1594406581762" duration="49729000" />
+      <workItem from="1595345081698" duration="22278000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MergeFile_testMergeFile - 2020.07.16 at 22h 34m 53s.xml">
-      <configuration name="MergeFile.testMergeFile" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MergeFile_testMergeFile - 2020.07.16 at 22h 49m 16s.xml">
-      <configuration name="MergeFile.testMergeFile" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MergeFile_testMergeFile - 2020.07.16 at 22h 49m 38s.xml">
-      <configuration name="MergeFile.testMergeFile" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MergeFile_testMergeFile - 2020.07.16 at 22h 58m 20s.xml">
       <configuration name="MergeFile.testMergeFile" configurationId="JUnit" />
     </history-entry>
@@ -581,72 +480,80 @@
     <history-entry file="CalculatorTest_testDivide2 - 2020.07.16 at 23h 16m 57s.xml">
       <configuration name="CalculatorTest.testDivide2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CalculatorTest03 - 2020.07.26 at 15h 03m 58s.xml">
+      <configuration name="CalculatorTest03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest02 - 2020.07.26 at 15h 04m 14s.xml">
+      <configuration name="CalculatorTest02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2020.07.26 at 15h 16m 06s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47384000" />
+    <option name="totallyTimeSpent" value="72627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32969698" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.32969698" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.25107297" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25939393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33818182" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49928468" visible="true" weight="0.44969696" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20171674" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44848484" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.25939393" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33818182" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20171674" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25751072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="UI Designer" order="5" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32969698" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32969698" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49928468" weight="0.32969698" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.32969698" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49928468" weight="0.39030302" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44848484" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.25107297" />
       <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
@@ -659,7 +566,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="13" />
+      <option name="time" value="20" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -667,173 +574,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/net/URI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="586" column="11" selection-start-line="586" selection-start-column="11" selection-end-line="586" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/Homework0704.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-common/2.6.0-cdh5.16.2/hadoop-common-2.6.0-cdh5.16.2-sources.jar!/org/apache/hadoop/fs/RemoteIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-common/2.6.0-cdh5.16.2/hadoop-common-2.6.0-cdh5.16.2-sources.jar!/org/apache/hadoop/fs/LocatedFileStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-common/2.6.0-cdh5.16.2/hadoop-common-2.6.0-cdh5.16.2-sources.jar!/org/apache/hadoop/fs/FileStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-common/2.6.0-cdh5.16.2/hadoop-common-2.6.0-cdh5.16.2-sources.jar!/org/apache/hadoop/fs/BlockLocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <caret line="39" column="21" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="1924" column="18" selection-start-line="1924" selection-start-column="18" selection-end-line="1924" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/javax/security/auth/login/Configuration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="196" column="20" selection-start-line="196" selection-start-column="20" selection-end-line="196" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/io/DataOutput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="54" column="19" lean-forward="true" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/AutoCloseable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="54" column="16" lean-forward="true" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-hdfs/2.6.0-cdh5.16.2/hadoop-hdfs-2.6.0-cdh5.16.2.jar!/hdfs-default.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="1918" column="23" lean-forward="true" selection-start-line="1918" selection-start-column="23" selection-end-line="1918" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/io/BufferedInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="181" column="36" selection-start-line="181" selection-start-column="36" selection-end-line="181" selection-end-column="36" />
-          <folding>
-            <element signature="e#5951#5952#0" expanded="true" />
-            <element signature="e#5996#5997#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/io/InputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-common/2.6.0-cdh5.16.2/hadoop-common-2.6.0-cdh5.16.2-sources.jar!/org/apache/hadoop/fs/FSDataOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/io/DataOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="37" column="38" lean-forward="true" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/io/FilterOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-common/2.6.0-cdh5.16.2/hadoop-common-2.6.0-cdh5.16.2-sources.jar!/org/apache/hadoop/fs/Path.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="87" column="20" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="20" />
-          <folding>
-            <element signature="e#3077#3078#0" expanded="true" />
-            <element signature="e#3126#3127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runner/JUnitCore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="141" selection-start-line="141" selection-end-line="141" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="370" selection-start-line="370" selection-end-line="370" />
-          <folding>
-            <element signature="e#2922#2923#0" expanded="true" />
-            <element signature="e#2966#2967#0" expanded="true" />
-            <element signature="e#10310#10449#0" expanded="true" />
-            <element signature="e#10448#10449#0" expanded="true" />
-            <element signature="e#11040#11204#0" expanded="true" />
-            <element signature="e#11203#11204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="e#1464#1658#0" expanded="true" />
-            <element signature="e#1657#1658#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -845,13 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
           <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/hadoop/HDFSAPITest02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-532">
-          <caret line="54" column="63" selection-start-line="54" selection-start-column="63" selection-end-line="54" selection-end-column="63" />
         </state>
       </provider>
     </entry>
@@ -873,13 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="121">
           <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/hadoop/HDFSAPITest03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-991">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -914,23 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/junit/CalculatorTest03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-159">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/pattern/template/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/junit/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -942,41 +651,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/junit/CalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/junit/CalculatorTest02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Documents/大数据高级班/04-MR编程02/资料/ser/AccessDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/hadoop/HDFSAPITest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="820">
-          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0-cdh5.16.2/hadoop-mapreduce-client-core-2.6.0-cdh5.16.2.jar!/org/apache/hadoop/mapreduce/InputFormat.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -989,9 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
           <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1013,10 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-210">
           <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
-          <folding>
-            <element signature="e#2706#2707#0" expanded="true" />
-            <element signature="e#2759#2760#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1029,15 +698,130 @@
     </entry>
     <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0-cdh5.16.2/hadoop-mapreduce-client-core-2.6.0-cdh5.16.2-sources.jar!/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
+        <state relative-caret-position="4860">
           <caret line="379" column="31" selection-start-line="379" selection-start-column="26" selection-end-line="379" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.0-cdh5.16.2/hadoop-mapreduce-client-core-2.6.0-cdh5.16.2-sources.jar!/org/apache/hadoop/mapreduce/InputFormat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
+        <state relative-caret-position="1275">
           <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/homework0719.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/homework/homework0719/TrafficApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/hive/JDBCApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/homework0719/CoureseIdParseUDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/inputformat/traffic.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/TrafficApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/inputformat/question.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/hadoop/HDFSAPITest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/hadoop/HDFSAPITest03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/hadoop/HDFSAPITest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/pattern/template/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/pattern/template/RuozedataMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -1056,27 +840,145 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/pattern/template/RuozedataMapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/pattern/template/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/pattern/template/Mapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        <state relative-caret-position="165">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/homework/homework0704/MergeFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+        <state relative-caret-position="-697">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/junit/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/junit/CalculatorTest03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/course.log">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-1" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/hive/MockData_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/junit/CalculatorTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/apache-maven-3.6.3/maven_repos/org/apache/hive/hive-exec/1.1.0-cdh5.16.2/hive-exec-1.1.0-cdh5.16.2.jar!/org/apache/hadoop/hive/ql/exec/UDF.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="1026" column="26" selection-start-line="1026" selection-start-column="26" selection-end-line="1026" selection-end-column="26" />
+          <folding>
+            <element signature="e#48487#48488#0" expanded="true" />
+            <element signature="e#48531#48532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="2222" column="27" selection-start-line="2222" selection-start-column="27" selection-end-line="2222" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/CourseIdParseUDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/utils/MockData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1795">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xuanfeng/bigdata/junit/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/traffic.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="31" column="84" lean-forward="true" selection-start-line="31" selection-end-line="31" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/QuestionTop10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xuanfeng/bigdata/homework/course.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/inputformat/course.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="45" />
         </state>
       </provider>
     </entry>
